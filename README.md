@@ -8,9 +8,7 @@ Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell 
 - **Ollama** (lokale LLMs) & AI-Tools rund ums Web
 - weitere Web-Technologien (Step by step: Architektur, Testing, Tooling, Deployment)
 
-## Interessen
-Ich mag Projekte, bei denen man schnell iterieren kann: von der Idee → Prototyp → sauberes Produkt.
-Besonders spannend finde ich die Schnittstelle aus **Frontend**, **Developer Experience** und **AI**.
+42 Lieblingsprojekt: Trancendence [ft_transcendence](https://github.com/fritz-gabler/ft_transcendence)
 
 <!-- Optional: Links ergänzen
 - Portfolio: https://...
