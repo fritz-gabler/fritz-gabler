@@ -1,4 +1,4 @@
-# Hi, ich bin Fritz Gabler 👋
+# Hi, ich bin Fritz 👋
 
 Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell in Richtung **Web-Entwicklung**.
 
