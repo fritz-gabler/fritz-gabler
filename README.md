@@ -1,6 +1,6 @@
 # Hi, ich bin Fritz 👋
 
-Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell in Richtung **Web-Entwicklung**.
+Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell in Richtung **Full-Stack-Development & LLM Integration**.
 
 ## Woran ich gerade arbeite / was ich lerne
 - **React**
