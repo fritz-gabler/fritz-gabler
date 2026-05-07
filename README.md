@@ -9,6 +9,11 @@ Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell 
 - weitere Web-Technologien (Step by step: Architektur, Testing, Tooling, Deployment)
 
 ## Tools (aus meinen Projekten)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,lua,bash,react,docker,git,github,neovim" alt="Technologie-Logos für C, C++, Python, JavaScript, HTML, Lua, Bash, React, Docker, Git, GitHub und Neovim" />
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router Logo" width="48" height="48" />
+</p>
+
 - **C**
 - **C++**
 - **Python**
