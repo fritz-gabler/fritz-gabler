@@ -5,6 +5,9 @@ Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell 
 ## Woran ich gerade arbeite / was ich lerne
 - **React**
 - **React Router v7**
+- **Next.js**
+- **Vue.js**
+- **Nuxt.js**
 - **Ollama** (lokale LLMs) & AI-Tools rund ums Web
 - weitere Web-Technologien (Step by step: Architektur, Testing, Tooling, Deployment)
 
@@ -18,6 +21,9 @@ Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell 
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82)
 ![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
