@@ -4,7 +4,6 @@ Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell 
 
 ## Woran ich gerade arbeite / was ich lerne
 - **React**
-- **React Router v7**
 - **Next.js**
 - **Vue.js**
 - **Nuxt.js**
