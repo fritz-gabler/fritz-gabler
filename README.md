@@ -1,37 +1,24 @@
 # Hi, ich bin Fritz 👋
 
-Ich habe ursprünglich an der **42 Heilbronn** studiert und bewege mich aktuell in Richtung **Full-Stack-Development & LLM Integration**.
+Mein Ziel: Technik dort einsetzen, wo sie gesellschaftlich oder für die Natur das größte Potenzial entfaltet.
 
-## Woran ich gerade arbeite / was ich lerne
-- **React**
-- **Next.js**
-- **Vue.js**
-- **Nuxt.js**
-- **Ollama** (lokale LLMs) & AI-Tools rund ums Web
-- weitere Web-Technologien (Step by step: Architektur, Testing, Tooling, Deployment)
+## Woran ich arbeite
+- **TMG-Solutions**: Technische Leitung von Softwareprojekten, allein oder im Team, das ich je nach Projekt zusammenstelle
+- **TG-BodyTalk**: Online-Plattform mit Videokursen zur Selbsthilfe nach der Geburt ([tg-bodytalk.com](https://tg-bodytalk.com))
+- Web-Anwendungen mit **Next.js & TypeScript**, KI-Automatisierung und lokale LLMs mit **Ollama**
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+## Womit ich baue
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82)
-![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-42 Lieblingsprojekt: Transcendence [ft_transcendence](https://github.com/fritz-gabler/ft_transcendence)
+## Hintergrund
+Programmieren gelernt habe ich an der **42 Heilbronn** (Peer-Learning). Mein Lieblingsprojekt von dort: [ft_transcendence](https://github.com/fritz-gabler/ft_transcendence)
 
-<!-- Optional: Links ergänzen
-- Portfolio: https://...
-- LinkedIn: https://...
-- Mail: ...
--->
+## Kontakt
+Melde dich gern bei mir:
+- Mail: [contact-me@fritz-gaebler.com](mailto:contact-me@fritz-gaebler.com)
+- LinkedIn: [hier->](https://www.linkedin.com/in/fritz-gäbler/)
